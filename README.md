@@ -9,10 +9,10 @@ Entrega Formação Scrum Master DIO. Analisando Case de Sucesso!
 <p> Scrum é um framework leve para desenvolvimento de produtos, inicialmente aplicado no desenvolvimento de software, mas já é aplicado em diversos projetos.
 É, iterativo e incrementa, faz parte das diversas soluções ágeis, sendo aplicado no gerencimanto  de projetos complexos.</p>
  
- <p> O Scrum não descreve as atividades que devem ser realizdas em cassa situação (não é uma metodologia). ao invés de nomear processos como ocorre com o PMBoK, 6º ed, 
- por exemplo, o Scrum contém um conjutos de valores, pricípios e práticas que fornecem a base para a gestão de projetos baseados na premissas ágeis.</p>
+O Scrum não descreve as atividades que devem ser realizdas em cassa situação (não é uma metodologia). ao invés de nomear processos como ocorre com o PMBoK, 6º ed, 
+ por exemplo, o Scrum contém um conjutos de valores, pricípios e práticas que fornecem a base para a gestão de projetos baseados na premissas ágeis.
   
-  *** Principais Características
+  ### Principais Características
   
   <li>
   <ul> Os projetos são desenvolvidos em incrementos e intervalos curtos, chamados de Sprints;
@@ -22,13 +22,13 @@ Entrega Formação Scrum Master DIO. Analisando Case de Sucesso!
   <ul> Os itens seleciondos são colocados em uma nova lista, Sprint Backlog. Serão estes itens que irão entrar na Sprint;
   </li>
         
-   <p> Resumidamente, antes de inicar um Sprint, o Product Owner realiza uma reunião de planejamento com o Scrum Team para que o Developments team identifique as atividades que será capaz de implementar durante uma Sprint.
- As Tasks definidas pelo Development Team são transferidas do Product Backlog para o Sprint Backlog.</p>
+Resumidamente, antes de inicar um Sprint, o Product Owner realiza uma reunião de planejamento com o Scrum Team para que o developments team identifique as atividades que será capaz de implementar durante uma Sprint.
+As Tasks definidas pelo Development Team são transferidas do Product Backlog para o Sprint Backlog.
      
-     <p>Diarimente o Development Team realiza a Daily Scrum, no mesmo horário e local com timebox de 15 minutos, visando atualizar para todo o Development Team  as tarefas executadas ou não executadas no dia anterior, descrevendo os impedimentos e apresentado as tarefas que serão executas no dia.</p>
+Diarimente o Development Team realiza a Daily Scrum, no mesmo horário e local com timebox de 15 minutos, visando atualizar para todo o Development Team  as tarefas executadas ou não executadas no dia anterior, descrevendo os impedimentos e apresentado as tarefas que serão executas no dia.
      
         
-  *** Eventos Scrum
+  ### Eventos Scrum
         <li>
         <ul> **Sprint** (max. 4 semanas)
         <ul> Sprint Planning (8 horas)
@@ -37,24 +37,24 @@ Entrega Formação Scrum Master DIO. Analisando Case de Sucesso!
         <ul> Sprint Retrospective (3 horas)
         </li>
                   
-   *** Team Scrum 
+   ### Team Scrum 
           <li>
           <ul> Product Owner
           <ul> Scrum Master
           <ul> Development Team
           </li>
                 
-  *** Artefatos Scrum
+### Artefatos Scrum
           <li>
           <ul> Product Backlog
           <ul> Sprint Backlog
-          </li><
+          </li>
   
                     
-   <p><strong>Quando uma Sprint é Finalizada? </strong></p>
-    <em>Quando o time-box é alcançado</em>
-    <p>Se o Development Team concluir o trabalho  antes do final da Sprint, o Product Owner
-    adiciona mais trabalho até o final do time-box</p>
+  <strong>Quando uma Sprint é Finalizada?</strong>
+   Quando o time-box é alcançado.
+ Se o Development Team concluir o trabalho  antes do final da Sprint, o Product Owner
+    adiciona mais trabalho até o final do time-box.
                    
    
     
