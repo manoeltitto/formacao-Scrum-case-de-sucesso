@@ -2,7 +2,7 @@
 Entrega Formação Scrum Master DIO. Analisando Case de Sucesso!
 
 
-![Ciclo Scrum] (https://learn.microsoft.com/pt-br/devops/_img/agile-scrum-lifecycle-diagram.png "Ciclo de Vida do Scrum")
+[Completando o Framework Scrum](https://miro.com/welcomeonboard/SVpGRlFLczZKRW9EWVhQTmlwWUs0RzA1RFZqbjVER1JzSjN3NkJYVVc5TUpQMHhjNVk2TlQ5UDJ6T1JVTnZITXwzNDU4NzY0NTU0NDkxNzU0NTE2fDI=?share_link_id=332141030353)
 
 ### Overview Scrum
 
